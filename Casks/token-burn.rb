@@ -1,6 +1,6 @@
 cask "token-burn" do
-  version "4.3.1"
-  sha256 "7e66c3258a69d726cb6f6435fc39b7eb43d72d77569277fe65fe9c498ede4b6e"
+  version "4.3.2"
+  sha256 "bec94b34853e114f3fa0186c5e0cf522ac36eaea1c36560a46727600c3eed10b"
 
   url "https://github.com/multi-turn-inc/ai-usage-meter/releases/download/v#{version}/AIUsageMeter-#{version}.dmg"
   name "Token Burn"
